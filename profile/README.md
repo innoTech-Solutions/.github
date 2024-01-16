@@ -1,7 +1,4 @@
-# InnoTECH - Local Business Digital Solution
-
 ## Project Overview: Empowering Local Businesses with Digital Solutions
-
 Our project aims to revolutionize the way local businesses thrive in the digital landscape. We're dedicated to empowering small and medium-sized enterprises (SMEs) by providing comprehensive digital solutions tailored to their specific needs.
 
 ## Mission Statement
